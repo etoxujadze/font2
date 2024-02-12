@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "foni";
+    src: url(/JacquesFrancoisShadow-Regular.ttf);
+
+}
+p {
+    font-family: "foni";
+}
+@font-face {
+    font-family: "fonti";
+    src: url(/OriginalSurfer-Regular.ttf);
+}
+.gaga {
+    font-family: "fonti";
+}
+@font-face {
+    font-family: "chemifonti";
+    src: url(/Play-Regular.ttf);
+}
+.eto {
+    font-family: "chemifonti";
+    text-align: justify;
+}
